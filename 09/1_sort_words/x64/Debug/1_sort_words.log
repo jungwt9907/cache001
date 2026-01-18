@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Files\2025\VisualStudio\POCU\COMP2200\09\1_sort_words\main.c(17,8): warning C4090: '함수': 다른 'const' 한정자
+C:\Files\2025\VisualStudio\POCU\COMP2200\09\1_sort_words\main.c(24,8): warning C4090: '함수': 다른 'const' 한정자
+  1_sort_words.vcxproj -> C:\Files\2025\VisualStudio\POCU\COMP2200 - 복사본\x64\Debug\1_sort_words.exe
