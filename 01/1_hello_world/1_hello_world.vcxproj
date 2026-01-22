@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{08c94476-f39e-43d6-83e3-9f957aaf775c}</ProjectGuid>
-    <RootNamespace>My1fastarray</RootNamespace>
+    <ProjectGuid>{1cc96ebe-1db9-4fa1-945e-bdae76140b90}</ProjectGuid>
+    <RootNamespace>My1helloworld</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
