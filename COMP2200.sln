@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3_is_array_overlap", "03\3_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "4_const_pointer", "03\4_const_pointer\4_const_pointer.vcxproj", "{3D3CBA81-06B8-4F2A-9C3C-E2BC08ECE786}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "5_pointer_array", "03\5_pointer_array\5_pointer_array.vcxproj", "{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -361,6 +363,14 @@ Global
 		{3D3CBA81-06B8-4F2A-9C3C-E2BC08ECE786}.Release|x64.Build.0 = Release|x64
 		{3D3CBA81-06B8-4F2A-9C3C-E2BC08ECE786}.Release|x86.ActiveCfg = Release|Win32
 		{3D3CBA81-06B8-4F2A-9C3C-E2BC08ECE786}.Release|x86.Build.0 = Release|Win32
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}.Debug|x64.ActiveCfg = Debug|x64
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}.Debug|x64.Build.0 = Debug|x64
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}.Debug|x86.ActiveCfg = Debug|Win32
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}.Debug|x86.Build.0 = Debug|Win32
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}.Release|x64.ActiveCfg = Release|x64
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}.Release|x64.Build.0 = Release|x64
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}.Release|x86.ActiveCfg = Release|Win32
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -398,6 +408,7 @@ Global
 		{D8B5CFF1-D844-4AE5-ADCC-004471B1AAAF} = {C3065C22-3CD9-40F4-8C31-2F9E63E60574}
 		{7A5858A3-0E8E-4BF7-92E7-BDE62E08EAFE} = {C3065C22-3CD9-40F4-8C31-2F9E63E60574}
 		{3D3CBA81-06B8-4F2A-9C3C-E2BC08ECE786} = {C3065C22-3CD9-40F4-8C31-2F9E63E60574}
+		{A5950DE6-79F7-4CC7-BE78-7370CA9E4369} = {C3065C22-3CD9-40F4-8C31-2F9E63E60574}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {13040351-4570-4CAF-8B33-B397A7B1566E}
